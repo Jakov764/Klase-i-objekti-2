@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovKlaseIObjekti\cvekŠpraljaJakovKlaseIObjekti\obj\Debug\cvekŠpraljaJakovKlaseIObjekti.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovKlaseIObjekti\cvekŠpraljaJakovKlaseIObjekti\bin\Debug\cvekŠpraljaJakovKlaseIObjekti.exe.config
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovKlaseIObjekti\cvekŠpraljaJakovKlaseIObjekti\bin\Debug\cvekŠpraljaJakovKlaseIObjekti.exe
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovKlaseIObjekti\cvekŠpraljaJakovKlaseIObjekti\bin\Debug\cvekŠpraljaJakovKlaseIObjekti.pdb
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovKlaseIObjekti\cvekŠpraljaJakovKlaseIObjekti\obj\Debug\cvekŠpraljaJakovKlaseIObjekti.exe
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovKlaseIObjekti\cvekŠpraljaJakovKlaseIObjekti\obj\Debug\cvekŠpraljaJakovKlaseIObjekti.pdb
